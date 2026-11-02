@@ -40,9 +40,6 @@ This project analyzes Zepto product and inventory data using **MySQL**. It cover
 - Business KPI and inventory analysis
 - Translating business questions into SQL queries
 
-## Disclaimer
-This project is for learning and portfolio purposes. Revenue is an **estimated inventory-based value** calculated from discounted selling price and available quantity; it is not necessarily actual sales revenue.
-
 ## 👩‍💻 Author
 
 **Prince**
