@@ -46,6 +46,7 @@ This project is for learning and portfolio purposes. Revenue is an **estimated i
 ## 👩‍💻 Author
 
 **Prince**
+
 Data Analyst | Fresher
 
 Skills:SQL
